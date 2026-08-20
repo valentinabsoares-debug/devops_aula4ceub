@@ -28,8 +28,4 @@ jobs:
 
     # ETAPA 2: TESTES AUTOMATIZADOS
     - name: Executar testes automatizados
-<<<<<<< HEAD
       run: npm test
-=======
-      run: npm test
->>>>>>> 2a775f35ea0e0ee338028ce501421275e28291dc
